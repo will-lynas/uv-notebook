@@ -6,3 +6,4 @@ A template repo for a python notebook using uv
 
 - Make a repo using this template
 - `uv sync`
+- `cursor .`
