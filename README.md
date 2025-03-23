@@ -7,3 +7,4 @@ A template repo for a python notebook using uv
 - Make a repo using this template
 - `uv sync`
 - `cursor .`
+- Run cell and choose `.venv` for python interpreter
