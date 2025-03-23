@@ -8,3 +8,8 @@ A template repo for a python notebook using uv
 - `uv sync`
 - `cursor .`
 - Run cell and choose `.venv` for python interpreter
+
+## Optional
+
+- Change `README.md`
+- Rename project in `pyproject.toml`
